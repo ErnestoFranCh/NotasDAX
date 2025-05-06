@@ -1,3 +1,16 @@
+## Índice de Funciones de Texto (Strings) en DAX
+
+### Sección 1: Funciones Básicas
+- [1. Funciones de Texto (Strings)](#1-funciones-de-texto-strings)
+  - [1.1 `LEFT()`, `RIGHT()`, `MID()`](#11-left-right-mid)
+  - [1.2 `LEN()`](#12-len)
+  - [1.3 `TRIM()`](#13-trim)
+  - [1.4 `UPPER()`, `LOWER()`](#14-upper-lower)
+  - [1.5 `CONCATENATE()` / `CONCAT()`, `&`](#15-concatenate--concat-)
+  - [1.6 `REPLACE()`, `SUBSTITUTE()`](#16-replace-substitute)
+  - [1.7 `SEARCH()`, `FIND()`](#17-search-find)
+  - [1.8 `FORMAT()`](#18-format)
+  - [1.9 `VALUE()`](#19-value)
 # 1. Funciones de Texto (Strings)
 Usadas para limpiar, manipular y analizar textos.
 
