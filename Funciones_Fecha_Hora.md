@@ -1,6 +1,6 @@
 ## Índice - Funciones de Fecha y Hora en DAX
 
-### 2. Funciones de Fecha y Hora
+# 2. Funciones de Fecha y Hora
 - [2.1 `TODAY()`, `NOW()`](#21-today-now)
 - [2.2 `YEAR()`, `MONTH()`, `DAY()`](#22-year-month-day)
 - [2.3 `WEEKNUM()`](#23-weeknum)
