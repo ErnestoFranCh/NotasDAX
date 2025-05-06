@@ -1,7 +1,6 @@
 ## Índice de Funciones de Texto (Strings) en DAX
 
-# Sección 1: Funciones Básicas
-- [1. Funciones de Texto (Strings)](#1-funciones-de-texto-strings)
+# 1. Funciones de Texto (Strings)
   - [1.1 `LEFT()`, `RIGHT()`, `MID()`](#11-left-right-mid)
   - [1.2 `LEN()`](#12-len)
   - [1.3 `TRIM()`](#13-trim)
