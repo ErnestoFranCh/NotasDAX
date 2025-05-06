@@ -1,6 +1,6 @@
 ## Índice - Funciones de Fecha y Hora en DAX
 
-### [2. Funciones de Fecha y Hora](#2-funciones-de-fecha-y-hora)
+### 2. Funciones de Fecha y Hora
 - [2.1 `TODAY()`, `NOW()`](#21-today-now)
 - [2.2 `YEAR()`, `MONTH()`, `DAY()`](#22-year-month-day)
 - [2.3 `WEEKNUM()`](#23-weeknum)
@@ -11,20 +11,7 @@
 - [2.8 `FORMAT()` (para fechas)](#28-format-para-fechas)
 - [2.9 `CALENDAR()`, `CALENDARAUTO()`](#29-calendar-calendarauto)
  
-
-# 2. Funciones de Fecha y Hora
 Ideales para calcular diferencias de tiempo, agrupar por fecha, etc.
-
-- `TODAY()`
-- `NOW()`
-- `YEAR()`, `MONTH()`, `DAY()`
-- `WEEKNUM()`
-- `HOUR()`, `MINUTE()`, `SECOND()`
-- `DATEDIFF()`
-- `DATE()`
-- `EDATE()`, `EOMONTH()`
-- `FORMAT()` (para fechas)
-- `CALENDAR()`, `CALENDARAUTO()`
 
 ## 2.1 `TODAY()`, `NOW()`
 ### `TODAY()`
