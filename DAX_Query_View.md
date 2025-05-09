@@ -33,6 +33,7 @@ EVALUATE
 Sales
 ```
 Devuelve la tabla `Sales`
+
 **Seleccionar columnas especificas**
 ```dax
 EVALUATE
